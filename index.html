@@ -4,11 +4,25 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./css/bootstrap.min.css">
+    <link rel="stylesheet" href="/style.css">
+    
     <title>My Movie Rsearch</title>
 </head>
 <body>
 <header class="header">
     <h1>My WebApp</h1>
 </header>   
+    <form id="searchForm">
+        <input type="text" placeholder="Entrez le titre d'un film" id="searchInput"><br>
+        <input type="submit"value="Rechercher">
+    </form>
+      <div class="result-container">
+        <ul id="result">
+
+        </ul>
+      </div>      
+      <img src="images/icon-512x512.png" alt="logo">
+<script src="./index.js"></script>
 </body>
 </html>

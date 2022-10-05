@@ -1,0 +1,7 @@
+tmdb api_key=2b2bade9e2aecc3142e10861d0ed2aa3
+
+https://api.themoviedb.org/3/search/movie?api_key=2b2bade9e2aecc3142e10861d0ed2aa3&query=Jack+Reacher
+
+comment réaliser ube url dynamique en Javascript!
+altGr + 7!!!!!!!
+******************************************************************************
